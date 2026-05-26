@@ -1,6 +1,6 @@
-# 📱 Med Smart Mobile
+# 📱 Healy Mobile
 
-Application mobile React Native — miroir exact de la version web **Med Smart**.
+Application mobile React Native — miroir exact de la version web **Healy**.
 
 ---
 
